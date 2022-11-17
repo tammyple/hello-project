@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-size: 14px;
+}
+
+h1 {
+  color: black;
+}
+
+h1 span {
+  color: red;
+}
+
